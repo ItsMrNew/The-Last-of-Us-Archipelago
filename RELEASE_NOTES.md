@@ -18,27 +18,6 @@ provided. Follow `tlou_ap/docs/setup_en.md` when migrating an existing portable 
 - DeathLink, managed runs, save compatibility guidance, a mission/check tracker,
   light/dark themes and configurable in-game notifications.
 
-## Release preparation
-
-- APWorld now contains and registers the standalone client in Archipelago Launcher.
-- Client cache upgrades preserve managed runs in a shared LocalAppData profile.
-- Portable legacy profiles migrate once, without overwriting an existing profile.
-- Game icon applied to the executable, client window and Archipelago Launcher entry.
-- Scoped Shaky Hands fix passed live controller testing, aim-mode switching and recovery.
-- Tool level-5 cap, normal toolbox compatibility, run switching and delete-run UI passed.
-
-## Validation
-
-All 293 isolated Python tests passed, along with world generation, multiplayer
-logic and packaged-client checks. The bundled APWorld launched through the
-installed Archipelago runtime and reused its verified client on a second launch.
-
-Full campaign and collectible coverage is player-confirmed. The player also
-confirmed the final checks passed without issues: AP tool restoration after
-loading an older lower-level save, Shaky Hands/Faulty Flashlight cutscene
-suspension, and aiming accessibility settings. These final three are
-player-reported results, not additional instrumented captures.
-
 ## Known limits
 
 Left Behind and persistent offline crash recovery are not supported. The client
