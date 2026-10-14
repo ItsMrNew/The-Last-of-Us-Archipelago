@@ -1,0 +1,68 @@
+{
+  "credit": "Sound effects from ZapSplat (https://www.zapsplat.com)",
+  "license_url": "https://www.zapsplat.com/license-type/standard-license/",
+  "recordings": [
+    {
+      "file": "airhorn-single-blast-1.wav",
+      "title": "Airhorn single blast 1",
+      "source": "https://www.zapsplat.com/music/airhorn-single-blast-1/",
+      "source_filename": "zapsplat_sport_air_horn_1x_blast_001_21138.mp3",
+      "source_sha256": "0880dfbce9f2fc9dc7706e64b1d0d3476bb413b9d7dd8d881b1d79784e0a15ee",
+      "sha256": "66542e64e6c6c0f907852ca255ff5902006a3703fbf8eaacb9575f88ec5b8399",
+      "duration_seconds": 1.27425,
+      "sample_rate": 48000,
+      "channels": 2,
+      "gain": 1.0
+    },
+    {
+      "file": "airhorn-single-blast-6.wav",
+      "title": "Airhorn single blast 6",
+      "source": "https://www.zapsplat.com/music/airhorn-single-blast-6/",
+      "source_filename": "zapsplat_sport_air_horn_1x_blast_006_21143.mp3",
+      "source_sha256": "a3f3eb62452ef41f2a5eb5e87cf95f0262d6011b3aaea1081ccb8b2fb116ab7d",
+      "sha256": "88ee8d3f98f269454dc1d9490489f677eac8c5c452aa12dc48b02f72813d93d9",
+      "duration_seconds": 1.702333,
+      "sample_rate": 48000,
+      "channels": 2,
+      "gain": 1.0
+    },
+    {
+      "file": "airhorn-single-blast-3.wav",
+      "title": "Airhorn single blast 3",
+      "source": "https://www.zapsplat.com/music/airhorn-single-blast-3/",
+      "source_filename": "zapsplat_sport_air_horn_1x_blast_003_21140.mp3",
+      "source_sha256": "e74ed1f5aedd65c6ce2bc07599beaa80b69d4ad38cf3d6d94ab14c849e355acf",
+      "sha256": "1817731403b7bb65b70d6867e76820cbd35e7160e8a603ca39a3ffd45155b51c",
+      "duration_seconds": 0.74375,
+      "sample_rate": 48000,
+      "channels": 2,
+      "gain": 1.0
+    },
+    {
+      "file": "airhorn-single-blast-2.wav",
+      "title": "Airhorn single blast 2",
+      "source": "https://www.zapsplat.com/music/airhorn-single-blast-2/",
+      "source_filename": "zapsplat_sport_air_horn_1x_blast_002_21139.mp3",
+      "source_sha256": "6f1a75a8b77c5af492ad24a5521e346461ff34fd27aaec99aecf51e7b3507657",
+      "sha256": "4bef505d6145de1b046f720f79e67fcaa492984d24efe88c775d5a2fa16b2206",
+      "duration_seconds": 0.690646,
+      "sample_rate": 48000,
+      "channels": 2,
+      "gain": 1.0
+    },
+    {
+      "file": "airhorn-single-blast-11.wav",
+      "title": "Airhorn single blast 11",
+      "source": "https://www.zapsplat.com/music/airhorn-single-blast-11/",
+      "source_filename": "zapsplat_sport_air_horn_1x_blast_011_21148.mp3",
+      "source_sha256": "12a38ccc73bff021dd01f0f2d2cd9be3aa1f8c0972d516748f0d3638b70688a5",
+      "sha256": "abceeb13ed06831a21489687a2b2f6b248999f83813756728f224e5072cf7db9",
+      "duration_seconds": 0.720792,
+      "sample_rate": 48000,
+      "channels": 2,
+      "gain": 1.0
+    }
+  ],
+  "imported_local_date": "2026-10-13",
+  "conversion": "MP3 decoded to 16-bit PCM WAV; original sample rate, channels and duration preserved. No gain increase."
+}

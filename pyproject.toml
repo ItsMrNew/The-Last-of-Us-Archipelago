@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tlou-part1-archipelago"
+version = "0.1.0"
+description = "Native Archipelago integration for The Last of Us Part I"
+requires-python = ">=3.12"
+dependencies = ["websockets==13.1"]
+
+[project.optional-dependencies]
+bundle = ["pyinstaller==6.22.3", "pyinstaller-hooks-contrib==2026.8"]
+research = ["capstone==5.0.7", "pefile==2024.8.26"]
+local-server = ["colorama==0.4.6", "PyYAML==6.0.3", "jellyfish==1.2.1", "jinja2==3.1.6",
+                "schema==0.7.8", "platformdirs==4.10.1", "orjson==3.11.7", "typing_extensions==4.15.0",
+                "pathspec==1.0.4", "cymem==2.0.13", "bsdiff4==1.2.6"]
+
+[project.scripts]
+tlou-ap = "tlou_ap.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["tlou_ap*"]
+
+[tool.setuptools.package-data]
+tlou_ap = ["archipelago.json", "data/*.json", "data/*.ico", "data/*.png", "data/*.wav", "data/airhorns/*.json", "data/airhorns/*.wav", "native/*.json", "docs/*.md"]

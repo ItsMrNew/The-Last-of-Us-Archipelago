@@ -1,0 +1,12 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.cmd text eol=crlf
+# The admitted native build fingerprints these exact source bytes.
+native/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+*.ico binary
+*.png binary
+*.wav binary

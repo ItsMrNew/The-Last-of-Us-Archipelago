@@ -1,0 +1,16 @@
+.venv/
+.deps/
+.research/
+.state/
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.log
+
+
+# Licensed recording assets are incorporated in release clients, not MIT source.
+tlou_ap/data/airhorns/*.wav
+resource-items-tests.txt

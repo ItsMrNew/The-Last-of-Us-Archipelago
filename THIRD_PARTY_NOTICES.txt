@@ -1,0 +1,36 @@
+The native bridge uses MinHook v1.3.4 from:
+https://github.com/TsudaKageyu/minhook
+Commit: c3fcafdc10146beb5919319d0683e44e3c30d537
+
+MinHook is distributed under its BSD-2-Clause license. The complete upstream
+license, including the HDE disassembler notice, is included beside the native
+DLL as dist/native/MinHook-LICENSE.txt.
+
+Zig 0.13.0 is the development compiler and is not redistributed in the client.
+Archipelago is a separate application. Its source, license and dependencies
+remain in the isolated development checkout and are not bundled with the client.
+
+The portable executable bundles Python 3.12, Tcl/Tk, websockets 13.1 and
+the PyInstaller 6.22.3 bootloader. Their notices are included in licenses/.
+PyInstaller's bootloader exception permits distributing this combined program.
+The executable also uses the Python runtime's bundled libraries and their
+notices in licenses/Python.txt and the additional component license files.
+
+The Last of Us Part I is owned by its respective rights holders. This is an
+unofficial integration. No game executables, asset archives, save files or
+proprietary decompression libraries are distributed with it.
+
+Airhorn recording pack: Sound effects from ZapSplat
+https://www.zapsplat.com
+Selected recordings: Airhorn single blast 1, 6, 3, 2 and 11.
+Source URLs are recorded in tlou_ap/data/airhorns/manifest.json.
+License: https://www.zapsplat.com/license-type/standard-license/
+These recordings were manually downloaded by the user and imported on
+13 October 2026. They are included in alpha 15 and remain licensed as incorporated
+sound effects, not as a standalone sound library. The original synthesized
+fallback is provided independently of this recording pack.
+
+The game icon is extracted from the locally installed game for identification.
+It remains the property of its respective rights holders and is not MIT-licensed.
+The MIT licence applies to project code, not the game icon or ZapSplat recordings.
+Licensed recording WAVs are excluded from the Git source distribution.

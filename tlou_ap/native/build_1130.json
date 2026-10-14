@@ -1,0 +1,26 @@
+{
+  "version": "1.1.3.0",
+  "sha256": "844a24fad346d3f4f32d32fa176a8f010dcc28d63d544d142bde5ddaac8a77af",
+  "executable": "tlou-i.exe",
+  "treasure_manager_pointer": 76181224,
+  "chapter_checkpoint_pointer": 99767448,
+  "profile_flags": 3168,
+  "inventory_count": 3152,
+  "task_cache": 75491600,
+  "main_task_count": 602,
+  "chapter_count": 894720,
+  "anchors": [
+    {
+      "rva": 20117043,
+      "bytes": "488b0dae785703e845720300"
+    },
+    {
+      "rva": 20343261,
+      "bytes": "418b848c600c000085c041c7848c600c000001000000"
+    },
+    {
+      "rva": 31611199,
+      "bytes": "8b8800a70d008bf785c9741b488bd0"
+    }
+  ]
+}

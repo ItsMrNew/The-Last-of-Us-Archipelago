@@ -1,0 +1,21 @@
+name: Survivor
+game: The Last of Us Part I
+description: Main-story preset for the experimental Windows native client.
+The Last of Us Part I:
+  progression_balancing: 50
+  accessibility: full
+  starting_chapters: 2
+  mission_checks: true
+  chapter_checks: true
+  collectible_checks: true
+  death_link: false
+  airhorn_trap_percentage: 10
+  airhorn_mode: single_blast # single_blast or timed
+  airhorn_duration: 60 # 30-120 seconds; used by timed mode
+  resource_supplies: true # Crafting Cache +1 each, Workbench Parts +25, Supplement Stash +10
+  shaky_hands_percentage: 0 # 30 playable seconds; opt-in
+  faulty_flashlight_percentage: 0 # 30 playable seconds; opt-in
+  # All three trap percentages together must be at most 100.
+
+  # Bonus tool upgrades alongside normal toolboxes; 0 to 5 copies.
+  progressive_tools: 5

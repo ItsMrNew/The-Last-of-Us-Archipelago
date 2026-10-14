@@ -1,0 +1,1286 @@
+{
+  "schema": 1,
+  "source_build": "1.1.3.0",
+  "source_hashes": {
+    "chapters": "9d348bfaf87ef139cda74269ad7f8ebf5819dd29aeccd41380c63833f1da90b7",
+    "treasures": "0b46ef7abe15ee8d81a2b21b9c7f090a39051eaf857b93546d07ab3525ec7066"
+  },
+  "chapters": [
+    {
+      "index": 0,
+      "name": "Hometown",
+      "sid": "f42eb75a7e733868"
+    },
+    {
+      "index": 1,
+      "name": "The Quarantine Zone",
+      "sid": "7620d7da1cf04528"
+    },
+    {
+      "index": 2,
+      "name": "The Outskirts",
+      "sid": "ecec38b9968ba449"
+    },
+    {
+      "index": 3,
+      "name": "Bill's Town",
+      "sid": "48ff2f640bd6ceff"
+    },
+    {
+      "index": 4,
+      "name": "Pittsburgh",
+      "sid": "ada52acfd6c99df3"
+    },
+    {
+      "index": 5,
+      "name": "The Suburbs",
+      "sid": "4e9987b303b23933"
+    },
+    {
+      "index": 6,
+      "name": "Tommy's Dam",
+      "sid": "b934d1eef6e8a323"
+    },
+    {
+      "index": 7,
+      "name": "The University",
+      "sid": "1e2596e7ca55d0b7"
+    },
+    {
+      "index": 8,
+      "name": "Lakeside Resort",
+      "sid": "651c49da36ca5fab"
+    },
+    {
+      "index": 9,
+      "name": "Bus Depot",
+      "sid": "f8effb2b224dd9ef"
+    },
+    {
+      "index": 10,
+      "name": "The Firefly Lab",
+      "sid": "686862b32e9b17aa"
+    },
+    {
+      "index": 11,
+      "name": "Jackson",
+      "sid": "cfde5d9309b60a58"
+    }
+  ],
+  "missions": [
+    {
+      "index": 0,
+      "name": "Prologue",
+      "sid": "11de09665be82e98",
+      "title_sid": "22cd1e4b638b7beb",
+      "task_sid": "cfccb229e125cd9c",
+      "chapter": 0
+    },
+    {
+      "index": 1,
+      "name": "20 Years Later",
+      "sid": "7ecc5a61e15573d1",
+      "title_sid": "22cd1f4b638b7d9e",
+      "task_sid": "ac91f666b06f42b2",
+      "chapter": 1
+    },
+    {
+      "index": 2,
+      "name": "Beyond The Wall",
+      "sid": "c814affddfd01a96",
+      "title_sid": "22cd204b638b7f51",
+      "task_sid": "767ea56e286f3e65",
+      "chapter": 1
+    },
+    {
+      "index": 3,
+      "name": "The Slums",
+      "sid": "c627586c3020a249",
+      "title_sid": "22cd214b638b8104",
+      "task_sid": "911bbbc9c1102a1f",
+      "chapter": 1
+    },
+    {
+      "index": 4,
+      "name": "The Cargo",
+      "sid": "32f90844a302d946",
+      "title_sid": "22cd224b638b82b7",
+      "task_sid": "d77922266a2b3483",
+      "chapter": 1
+    },
+    {
+      "index": 5,
+      "name": "Outside",
+      "sid": "08566bfb5df8d6e4",
+      "title_sid": "22cd234b638b846a",
+      "task_sid": "856b71c5545d3e44",
+      "chapter": 2
+    },
+    {
+      "index": 6,
+      "name": "Downtown",
+      "sid": "9ae0a530289c8c75",
+      "title_sid": "22cd244b638b861d",
+      "task_sid": "b0ab760af7a6263c",
+      "chapter": 2
+    },
+    {
+      "index": 7,
+      "name": "Museum",
+      "sid": "d2fade0e400c9855",
+      "title_sid": "22cd154b638b6ca0",
+      "task_sid": "c52e7f4d3de4152b",
+      "chapter": 2
+    },
+    {
+      "index": 8,
+      "name": "The Capitol Building",
+      "sid": "b3422a03185f07c5",
+      "title_sid": "22cd164b638b6e53",
+      "task_sid": "4ac65ae812106da1",
+      "chapter": 2
+    },
+    {
+      "index": 9,
+      "name": "The Woods",
+      "sid": "adc8df5ea84bd921",
+      "title_sid": "ae06551a26037521",
+      "task_sid": "5251a47ccaf84729",
+      "chapter": 3
+    },
+    {
+      "index": 10,
+      "name": "Safehouse",
+      "sid": "82db4eb59135a76c",
+      "title_sid": "ae06541a2603736e",
+      "task_sid": "7691148e3aac87ba",
+      "chapter": 3
+    },
+    {
+      "index": 11,
+      "name": "Graveyard",
+      "sid": "aec12c8a28a07ac6",
+      "title_sid": "ae06531a260371bb",
+      "task_sid": "89133a99b5759b38",
+      "chapter": 3
+    },
+    {
+      "index": 12,
+      "name": "High School Escape",
+      "sid": "764e7fbc7aa8fab0",
+      "title_sid": "ae06521a26037008",
+      "task_sid": "0b95a2c8809ba1ec",
+      "chapter": 3
+    },
+    {
+      "index": 13,
+      "name": "Alone and Forsaken",
+      "sid": "5e15688e554ce28e",
+      "title_sid": "ae06591a26037bed",
+      "task_sid": "2251282ff2f52822",
+      "chapter": 4
+    },
+    {
+      "index": 14,
+      "name": "Hotel Lobby",
+      "sid": "1ccae3b6ef72f533",
+      "title_sid": "ae06581a26037a3a",
+      "task_sid": "717da293f82b2802",
+      "chapter": 4
+    },
+    {
+      "index": 15,
+      "name": "Financial District",
+      "sid": "a780f3e65613131c",
+      "title_sid": "ae06571a26037887",
+      "task_sid": "5809582eea6016b1",
+      "chapter": 4
+    },
+    {
+      "index": 16,
+      "name": "Escape the City",
+      "sid": "1b0ebd995577e4b1",
+      "title_sid": "ae06561a260376d4",
+      "task_sid": "20c986ca00497d71",
+      "chapter": 4
+    },
+    {
+      "index": 17,
+      "name": "Sewers",
+      "sid": "d68389544da9c7d6",
+      "title_sid": "ae064d1a26036789",
+      "task_sid": "37b3493160038d62",
+      "chapter": 5
+    },
+    {
+      "index": 18,
+      "name": "Suburbs",
+      "sid": "045cb08c02f73cba",
+      "title_sid": "ae064c1a260365d6",
+      "task_sid": "d18873b5f9d506d7",
+      "chapter": 5
+    },
+    {
+      "index": 19,
+      "name": "Hydroelectric Dam",
+      "sid": "fc93001adb64dda5",
+      "title_sid": "ae09db1a26068eaa",
+      "task_sid": "cb3dd8408dc40821",
+      "chapter": 6
+    },
+    {
+      "index": 20,
+      "name": "Ranch House",
+      "sid": "527cc511b299b025",
+      "title_sid": "ae09dc1a2606905d",
+      "task_sid": "cc91ffdcb3b415f6",
+      "chapter": 6
+    },
+    {
+      "index": 21,
+      "name": "Go Big Horns",
+      "sid": "fdb09cf2f3c32989",
+      "title_sid": "ae09d91a26068b44",
+      "task_sid": "87b50b73f8a78b0d",
+      "chapter": 7
+    },
+    {
+      "index": 22,
+      "name": "Science Building",
+      "sid": "e34a89e3d1e4889d",
+      "title_sid": "ae09da1a26068cf7",
+      "task_sid": "3c12492b0ceb6100",
+      "chapter": 7
+    },
+    {
+      "index": 23,
+      "name": "The Hunt",
+      "sid": "80d380cc11d47ae4",
+      "title_sid": "ae09d71a260687de",
+      "task_sid": "3faf7126466eeea0",
+      "chapter": 8
+    },
+    {
+      "index": 24,
+      "name": "Cabin Resort",
+      "sid": "a34a79f1c641b168",
+      "title_sid": "ae09d81a26068991",
+      "task_sid": "1449831fe903afc4",
+      "chapter": 8
+    },
+    {
+      "index": 25,
+      "name": "Highway Exit",
+      "sid": "c224d035c9910a7c",
+      "title_sid": "ae09d51a26068478",
+      "task_sid": "93678b3c50308caf",
+      "chapter": 9
+    },
+    {
+      "index": 26,
+      "name": "Underground Tunnel",
+      "sid": "b30e6b11ca4bcb86",
+      "title_sid": "ae09d61a2606862b",
+      "task_sid": "47550fc315f065f1",
+      "chapter": 9
+    },
+    {
+      "index": 27,
+      "name": "The Hospital",
+      "sid": "b54c5d3e3853f133",
+      "title_sid": "ae09d31a26068112",
+      "task_sid": "5735b160ee5d66b5",
+      "chapter": 10
+    },
+    {
+      "index": 28,
+      "name": "Epilogue",
+      "sid": "54cd06dc58e5770d",
+      "title_sid": "ae09d41a260682c5",
+      "task_sid": "137e1c62bbff1b22",
+      "chapter": 11
+    }
+  ],
+  "collectibles": [
+    {
+      "index": 0,
+      "name": "Wanted Poster",
+      "mission": 3,
+      "category": "artifact",
+      "sid": "a6f7c59630413cf2"
+    },
+    {
+      "index": 1,
+      "name": "Drafting Notice",
+      "mission": 3,
+      "category": "artifact",
+      "sid": "d82734ba88a8729d"
+    },
+    {
+      "index": 2,
+      "name": "Note to Brother",
+      "mission": 2,
+      "category": "artifact",
+      "sid": "a20f68eccef7c466"
+    },
+    {
+      "index": 3,
+      "name": "Docks Note",
+      "mission": 3,
+      "category": "artifact",
+      "sid": "c0110a5941dda9b4"
+    },
+    {
+      "index": 4,
+      "name": "Shipping Manifest",
+      "mission": 3,
+      "category": "artifact",
+      "sid": "c0110d5941ddaecd"
+    },
+    {
+      "index": 5,
+      "name": "Boston Q.Z. Map",
+      "mission": 2,
+      "category": "artifact",
+      "sid": "5d41b113242cdc43"
+    },
+    {
+      "index": 6,
+      "name": "Military Pamphlet",
+      "mission": 2,
+      "category": "artifact",
+      "sid": "54c18610845ea979"
+    },
+    {
+      "index": 7,
+      "name": "Tess's List",
+      "mission": 5,
+      "category": "artifact",
+      "sid": "3b926e8081d24731"
+    },
+    {
+      "index": 8,
+      "name": "Evacuation Leaflet",
+      "mission": 6,
+      "category": "artifact",
+      "sid": "4dd3b20715159fee"
+    },
+    {
+      "index": 9,
+      "name": "Field Ops Log",
+      "mission": 6,
+      "category": "artifact",
+      "sid": "12b568ebdd699f61"
+    },
+    {
+      "index": 10,
+      "name": "Firefly Map",
+      "mission": 6,
+      "category": "artifact",
+      "sid": "06def55c06dabe97"
+    },
+    {
+      "index": 11,
+      "name": "Firefly Orders",
+      "mission": 8,
+      "category": "artifact",
+      "sid": "ba204b2b1d156ee9"
+    },
+    {
+      "index": 12,
+      "name": "Medical Pamphlet",
+      "mission": 7,
+      "category": "artifact",
+      "sid": "a230bcda4867dee1"
+    },
+    {
+      "index": 13,
+      "name": "Patrol Routes Map",
+      "mission": 5,
+      "category": "artifact",
+      "sid": "e1ee095c3ac5c223"
+    },
+    {
+      "index": 14,
+      "name": "Smuggler Note",
+      "mission": 8,
+      "category": "artifact",
+      "sid": "e09cc09c0292d7eb"
+    },
+    {
+      "index": 15,
+      "name": "Note to Derek",
+      "mission": 6,
+      "category": "artifact",
+      "sid": "5b76c46f82fe81ad"
+    },
+    {
+      "index": 16,
+      "name": "Note to Rachel",
+      "mission": 9,
+      "category": "artifact",
+      "sid": "26e8e91dd8919149"
+    },
+    {
+      "index": 17,
+      "name": "Note from Frank",
+      "mission": 12,
+      "category": "artifact",
+      "sid": "fbd7ec5dcf299f6b"
+    },
+    {
+      "index": 18,
+      "name": "Note from Frank (Returned)",
+      "mission": 12,
+      "category": "artifact",
+      "sid": "d1d0891d4e7d8298"
+    },
+    {
+      "index": 19,
+      "name": "Bill's Map",
+      "mission": 10,
+      "category": "artifact",
+      "sid": "2560698b06313360"
+    },
+    {
+      "index": 20,
+      "name": "Boy's Diary",
+      "mission": 11,
+      "category": "artifact",
+      "sid": "b9d03246c1149503"
+    },
+    {
+      "index": 21,
+      "name": "Note to Bob",
+      "mission": 9,
+      "category": "artifact",
+      "sid": "7340d55bf6828f9f"
+    },
+    {
+      "index": 22,
+      "name": "Pills Note",
+      "mission": 9,
+      "category": "artifact",
+      "sid": "edbd3580b02286cc"
+    },
+    {
+      "index": 23,
+      "name": "Perimeter Note",
+      "mission": 9,
+      "category": "artifact",
+      "sid": "edbd3880b0228be5"
+    },
+    {
+      "index": 24,
+      "name": "Fences Note",
+      "mission": 10,
+      "category": "artifact",
+      "sid": "edbd3780b0228a32"
+    },
+    {
+      "index": 25,
+      "name": "Hunters Note",
+      "mission": 10,
+      "category": "artifact",
+      "sid": "edbd3280b02281b3"
+    },
+    {
+      "index": 26,
+      "name": "Bombs Note",
+      "mission": 11,
+      "category": "artifact",
+      "sid": "edbd3180b0228000"
+    },
+    {
+      "index": 27,
+      "name": "Siphon Hose",
+      "mission": 13,
+      "category": "artifact",
+      "sid": "e24318aa6d3049ce"
+    },
+    {
+      "index": 28,
+      "name": "Applicant Checklist",
+      "mission": 13,
+      "category": "artifact",
+      "sid": "f94f5860eaa5c088"
+    },
+    {
+      "index": 29,
+      "name": "Lost Hill Note",
+      "mission": 13,
+      "category": "artifact",
+      "sid": "115dad4cf5d203dc"
+    },
+    {
+      "index": 30,
+      "name": "Abandon Zone Note",
+      "mission": 13,
+      "category": "artifact",
+      "sid": "52559cee708efc4c"
+    },
+    {
+      "index": 31,
+      "name": "Mob Attack Note",
+      "mission": 15,
+      "category": "artifact",
+      "sid": "3a7b97d0bf5ef6ba"
+    },
+    {
+      "index": 32,
+      "name": "Traitors Flyer",
+      "mission": 13,
+      "category": "artifact",
+      "sid": "11ff394b4d509d59"
+    },
+    {
+      "index": 33,
+      "name": "Lost Areas Map",
+      "mission": 13,
+      "category": "artifact",
+      "sid": "c128de3c9c536783"
+    },
+    {
+      "index": 34,
+      "name": "Stash Note",
+      "mission": 13,
+      "category": "artifact",
+      "sid": "dc7d2c637a9ef62a"
+    },
+    {
+      "index": 35,
+      "name": "Mother's Letter",
+      "mission": 13,
+      "category": "artifact",
+      "sid": "37b8d4d90c586a7f"
+    },
+    {
+      "index": 36,
+      "name": "Final Attack Note",
+      "mission": 15,
+      "category": "artifact",
+      "sid": "87de896e0a44d5cf"
+    },
+    {
+      "index": 37,
+      "name": "Fireflies Note",
+      "mission": 15,
+      "category": "artifact",
+      "sid": "330b2261bca050b0"
+    },
+    {
+      "index": 38,
+      "name": "Ambush Map",
+      "mission": 13,
+      "category": "artifact",
+      "sid": "b8f889b91c9a6123"
+    },
+    {
+      "index": 39,
+      "name": "Truck Note",
+      "mission": 15,
+      "category": "artifact",
+      "sid": "0470fa729c3535eb"
+    },
+    {
+      "index": 40,
+      "name": "Trial Note",
+      "mission": 16,
+      "category": "artifact",
+      "sid": "c22c3a417c68900f"
+    },
+    {
+      "index": 41,
+      "name": "Tourists Manifest",
+      "mission": 13,
+      "category": "artifact",
+      "sid": "feca02183c71275d"
+    },
+    {
+      "index": 42,
+      "name": "Note to Staff",
+      "mission": 14,
+      "category": "artifact",
+      "sid": "78c26203dd9f6439"
+    },
+    {
+      "index": 43,
+      "name": "Hotel Keycard",
+      "mission": 14,
+      "category": "artifact",
+      "sid": "1ce90cff21c1bf6d"
+    },
+    {
+      "index": 44,
+      "name": "Boat Note",
+      "mission": 17,
+      "category": "artifact",
+      "sid": "4949a3d298201855"
+    },
+    {
+      "index": 45,
+      "name": "Sewers Note",
+      "mission": 17,
+      "category": "artifact",
+      "sid": "557ce5ab493a35b2"
+    },
+    {
+      "index": 46,
+      "name": "Trading Note",
+      "mission": 17,
+      "category": "artifact",
+      "sid": "c76dc402de86fea2"
+    },
+    {
+      "index": 47,
+      "name": "Matchbook",
+      "mission": 18,
+      "category": "artifact",
+      "sid": "dc89d3586e6cce96"
+    },
+    {
+      "index": 48,
+      "name": "Cornered Note",
+      "mission": 17,
+      "category": "artifact",
+      "sid": "e585c6086d75d340"
+    },
+    {
+      "index": 49,
+      "name": "Rain Catcher Note",
+      "mission": 17,
+      "category": "artifact",
+      "sid": "d5c79b4350c9cfeb"
+    },
+    {
+      "index": 50,
+      "name": "Kid's Drawing",
+      "mission": 17,
+      "category": "artifact",
+      "sid": "46b96485e6afc762"
+    },
+    {
+      "index": 51,
+      "name": "Survivors Note",
+      "mission": 18,
+      "category": "artifact",
+      "sid": "4b2b387b57078074"
+    },
+    {
+      "index": 52,
+      "name": "Father's Note",
+      "mission": 18,
+      "category": "artifact",
+      "sid": "226f15b992eadf68"
+    },
+    {
+      "index": 53,
+      "name": "Looting Note",
+      "mission": 18,
+      "category": "artifact",
+      "sid": "766516f2771ab8f3"
+    },
+    {
+      "index": 54,
+      "name": "Power Plant Map",
+      "mission": 19,
+      "category": "artifact",
+      "sid": "b7ff56f77679b92d"
+    },
+    {
+      "index": 55,
+      "name": "Plant Schematics",
+      "mission": 19,
+      "category": "artifact",
+      "sid": "743381a9efee9b8c"
+    },
+    {
+      "index": 56,
+      "name": "Snipers' Nest Log",
+      "mission": 21,
+      "category": "artifact",
+      "sid": "b3bdf81beb31e57c"
+    },
+    {
+      "index": 57,
+      "name": "Wall Panel Note",
+      "mission": 21,
+      "category": "artifact",
+      "sid": "8322bb9bf44d88fd"
+    },
+    {
+      "index": 58,
+      "name": "Newspaper Clipping",
+      "mission": 21,
+      "category": "artifact",
+      "sid": "703ab0538275087f"
+    },
+    {
+      "index": 59,
+      "name": "Student's Journal",
+      "mission": 21,
+      "category": "artifact",
+      "sid": "c21b69fa5f7ceb90"
+    },
+    {
+      "index": 60,
+      "name": "UEC Campus Map",
+      "mission": 21,
+      "category": "artifact",
+      "sid": "a7198935b5b3f37f"
+    },
+    {
+      "index": 61,
+      "name": "Fungal X-Rays",
+      "mission": 22,
+      "category": "artifact",
+      "sid": "73ccc1d3772a15bb"
+    },
+    {
+      "index": 62,
+      "name": "Office Recorder",
+      "mission": 22,
+      "category": "artifact",
+      "sid": "a72fff07dda64100"
+    },
+    {
+      "index": 63,
+      "name": "Lab Recorder",
+      "mission": 22,
+      "category": "artifact",
+      "sid": "a7300207dda64619"
+    },
+    {
+      "index": 64,
+      "name": "Firefly's Recorder",
+      "mission": 22,
+      "category": "artifact",
+      "sid": "9c8832333017f5a6"
+    },
+    {
+      "index": 65,
+      "name": "No Pun Intended",
+      "mission": 23,
+      "category": "artifact",
+      "sid": "8f435174ae1619cc"
+    },
+    {
+      "index": 66,
+      "name": "To Get To The Other Side",
+      "mission": 23,
+      "category": "artifact",
+      "sid": "8f435474ae161ee5"
+    },
+    {
+      "index": 67,
+      "name": "No Pun Intended: Volume Too",
+      "mission": 23,
+      "category": "artifact",
+      "sid": "8f435374ae161d32"
+    },
+    {
+      "index": 68,
+      "name": "Riley's Firefly Pendant",
+      "mission": 23,
+      "category": "artifact",
+      "sid": "8178a89bfeebe53a"
+    },
+    {
+      "index": 69,
+      "name": "Sam's Robot",
+      "mission": 23,
+      "category": "artifact",
+      "sid": "7c87bd8a57105b38"
+    },
+    {
+      "index": 70,
+      "name": "Meat Ledger",
+      "mission": 24,
+      "category": "artifact",
+      "sid": "6bab40c5ebc15e66"
+    },
+    {
+      "index": 71,
+      "name": "Walkman",
+      "mission": 23,
+      "category": "artifact",
+      "sid": "907088ba3e88c82a"
+    },
+    {
+      "index": 72,
+      "name": "Lake Resort Map",
+      "mission": 24,
+      "category": "artifact",
+      "sid": "b6f94987c9de451c"
+    },
+    {
+      "index": 73,
+      "name": "Note from Mom",
+      "mission": 23,
+      "category": "artifact",
+      "sid": "05f751d5a77e75e1"
+    },
+    {
+      "index": 74,
+      "name": "Switchblade",
+      "mission": 23,
+      "category": "artifact",
+      "sid": "d323c7f2f56e4877"
+    },
+    {
+      "index": 75,
+      "name": "Note to Wife",
+      "mission": 25,
+      "category": "artifact",
+      "sid": "88b94f245ae4c553"
+    },
+    {
+      "index": 76,
+      "name": "Family Photograph",
+      "mission": 25,
+      "category": "artifact",
+      "sid": "38b245173e0292af"
+    },
+    {
+      "index": 77,
+      "name": "Salt Lake Q.Z. Map",
+      "mission": 25,
+      "category": "artifact",
+      "sid": "e15bff7dcc2738fc"
+    },
+    {
+      "index": 78,
+      "name": "Joel & Sarah Photo (Ellie Inventory)",
+      "mission": 23,
+      "category": "artifact",
+      "sid": "3ca15ca192a1d33b"
+    },
+    {
+      "index": 79,
+      "name": "Joel & Sarah Photo",
+      "mission": 25,
+      "category": "artifact",
+      "sid": "c403b8e41b465a94"
+    },
+    {
+      "index": 80,
+      "name": "Surgeon's Recorder",
+      "mission": 27,
+      "category": "artifact",
+      "sid": "2baa421a6b968aac"
+    },
+    {
+      "index": 81,
+      "name": "Marlene's Recorder 1",
+      "mission": 27,
+      "category": "artifact",
+      "sid": "f204e10a9afad2a5"
+    },
+    {
+      "index": 82,
+      "name": "Marlene's Recorder 2",
+      "mission": 27,
+      "category": "artifact",
+      "sid": "f204de0a9afacd8c"
+    },
+    {
+      "index": 83,
+      "name": "Marlene's Journal",
+      "mission": 27,
+      "category": "artifact",
+      "sid": "24fad9d0162f0c98"
+    },
+    {
+      "index": 84,
+      "name": "Vigil's Firefly Pendant",
+      "mission": 2,
+      "category": "pendant",
+      "sid": "ac0bce19cf0b1a2e"
+    },
+    {
+      "index": 85,
+      "name": "Glueck's Firefly Pendant",
+      "mission": 2,
+      "category": "pendant",
+      "sid": "ac0bcd19cf0b187b"
+    },
+    {
+      "index": 86,
+      "name": "Liu's Firefly Pendant",
+      "mission": 4,
+      "category": "pendant",
+      "sid": "ac0bcc19cf0b16c8"
+    },
+    {
+      "index": 87,
+      "name": "Lenz's Firefly Pendant",
+      "mission": 6,
+      "category": "pendant",
+      "sid": "ac0bd319cf0b22ad"
+    },
+    {
+      "index": 88,
+      "name": "Kiper's Firefly Pendant",
+      "mission": 7,
+      "category": "pendant",
+      "sid": "ac0bd219cf0b20fa"
+    },
+    {
+      "index": 89,
+      "name": "Davidson's Firefly Pendant",
+      "mission": 8,
+      "category": "pendant",
+      "sid": "ac0bd119cf0b1f47"
+    },
+    {
+      "index": 90,
+      "name": "Jiang's Firefly Pendant",
+      "mission": 8,
+      "category": "pendant",
+      "sid": "ac0bd019cf0b1d94"
+    },
+    {
+      "index": 91,
+      "name": "Wang's Firefly Pendant",
+      "mission": 9,
+      "category": "pendant",
+      "sid": "ac0bc719cf0b0e49"
+    },
+    {
+      "index": 92,
+      "name": "Vincent's Firefly Pendant",
+      "mission": 10,
+      "category": "pendant",
+      "sid": "ac0bc619cf0b0c96"
+    },
+    {
+      "index": 93,
+      "name": "Mrozik's Firefly Pendant",
+      "mission": 11,
+      "category": "pendant",
+      "sid": "632953dacfdd60fa"
+    },
+    {
+      "index": 94,
+      "name": "Risk's Firefly Pendant",
+      "mission": 13,
+      "category": "pendant",
+      "sid": "632954dacfdd62ad"
+    },
+    {
+      "index": 95,
+      "name": "Warren's Firefly Pendant",
+      "mission": 21,
+      "category": "pendant",
+      "sid": "632951dacfdd5d94"
+    },
+    {
+      "index": 96,
+      "name": "Reed's Firefly Pendant",
+      "mission": 14,
+      "category": "pendant",
+      "sid": "632952dacfdd5f47"
+    },
+    {
+      "index": 97,
+      "name": "Righetti's Firefly Pendant",
+      "mission": 17,
+      "category": "pendant",
+      "sid": "63294fdacfdd5a2e"
+    },
+    {
+      "index": 98,
+      "name": "Rios's Firefly Pendant",
+      "mission": 16,
+      "category": "pendant",
+      "sid": "632950dacfdd5be1"
+    },
+    {
+      "index": 99,
+      "name": "Scheffler's Firefly Pendant",
+      "mission": 17,
+      "category": "pendant",
+      "sid": "63294ddacfdd56c8"
+    },
+    {
+      "index": 100,
+      "name": "Fuentes's Firefly Pendant",
+      "mission": 17,
+      "category": "pendant",
+      "sid": "63294edacfdd587b"
+    },
+    {
+      "index": 101,
+      "name": "Oliverio's Firefly Pendant",
+      "mission": 19,
+      "category": "pendant",
+      "sid": "63294bdacfdd5362"
+    },
+    {
+      "index": 102,
+      "name": "B. Pino's Firefly Pendant",
+      "mission": 20,
+      "category": "pendant",
+      "sid": "63294cdacfdd5515"
+    },
+    {
+      "index": 103,
+      "name": "H. Pino's Firefly Pendant",
+      "mission": 21,
+      "category": "pendant",
+      "sid": "6325cddacfda4771"
+    },
+    {
+      "index": 104,
+      "name": "Rohner's Firefly Pendant",
+      "mission": 21,
+      "category": "pendant",
+      "sid": "6325ccdacfda45be"
+    },
+    {
+      "index": 105,
+      "name": "Griggs' Firefly Pendant",
+      "mission": 21,
+      "category": "pendant",
+      "sid": "6325cbdacfda440b"
+    },
+    {
+      "index": 106,
+      "name": "Hickman's Firefly Pendant",
+      "mission": 22,
+      "category": "pendant",
+      "sid": "6325cadacfda4258"
+    },
+    {
+      "index": 107,
+      "name": "Kristof's Firefly Pendant",
+      "mission": 23,
+      "category": "pendant",
+      "sid": "6325d1dacfda4e3d"
+    },
+    {
+      "index": 108,
+      "name": "Braun's Firefly Pendant",
+      "mission": 24,
+      "category": "pendant",
+      "sid": "6325d0dacfda4c8a"
+    },
+    {
+      "index": 109,
+      "name": "Perich's Firefly Pendant",
+      "mission": 25,
+      "category": "pendant",
+      "sid": "6325cfdacfda4ad7"
+    },
+    {
+      "index": 110,
+      "name": "Nicole Hoo's Firefly Pendant",
+      "mission": 25,
+      "category": "pendant",
+      "sid": "6325cedacfda4924"
+    },
+    {
+      "index": 111,
+      "name": "Natalie Hoo's Firefly Pendant",
+      "mission": 26,
+      "category": "pendant",
+      "sid": "6325c5dacfda39d9"
+    },
+    {
+      "index": 112,
+      "name": "White's Firefly Pendant",
+      "mission": 18,
+      "category": "pendant",
+      "sid": "6325c4dacfda3826"
+    },
+    {
+      "index": 113,
+      "name": "Stewart-Seume's Firefly Pendant",
+      "mission": 27,
+      "category": "pendant",
+      "sid": "6322c7dacfd80768"
+    },
+    {
+      "index": 114,
+      "name": "Health: Splinting",
+      "mission": 13,
+      "category": "manual",
+      "sid": "5a9cdf3c6570cfd0"
+    },
+    {
+      "index": 115,
+      "name": "Health: Sterilization",
+      "mission": 21,
+      "category": "manual",
+      "sid": "5a9ce23c6570d4e9"
+    },
+    {
+      "index": 116,
+      "name": "Shiv: Sharpening",
+      "mission": 10,
+      "category": "manual",
+      "sid": "24670881921cb02b"
+    },
+    {
+      "index": 117,
+      "name": "Shiv: Reinforcement",
+      "mission": 14,
+      "category": "manual",
+      "sid": "24670981921cb1de"
+    },
+    {
+      "index": 118,
+      "name": "Melee: Knots",
+      "mission": 14,
+      "category": "manual",
+      "sid": "c19ca516471e5970"
+    },
+    {
+      "index": 119,
+      "name": "Melee: Techniques",
+      "mission": 18,
+      "category": "manual",
+      "sid": "c19ca816471e5e89"
+    },
+    {
+      "index": 120,
+      "name": "Molotov: Construction",
+      "mission": 16,
+      "category": "manual",
+      "sid": "6e7c99658180dc93"
+    },
+    {
+      "index": 121,
+      "name": "Molotov: Deployment",
+      "mission": 22,
+      "category": "manual",
+      "sid": "6e7c9a658180de46"
+    },
+    {
+      "index": 122,
+      "name": "Bomb: Containment",
+      "mission": 17,
+      "category": "manual",
+      "sid": "921388102b31844b"
+    },
+    {
+      "index": 123,
+      "name": "Bomb: Shrapnel",
+      "mission": 26,
+      "category": "manual",
+      "sid": "921389102b3185fe"
+    },
+    {
+      "index": 124,
+      "name": "Smoke: Chemistry",
+      "mission": 19,
+      "category": "manual",
+      "sid": "72cfa56ec49dc02f"
+    },
+    {
+      "index": 125,
+      "name": "Smoke: Shaping",
+      "mission": 24,
+      "category": "manual",
+      "sid": "72cfa66ec49dc1e2"
+    },
+    {
+      "index": 126,
+      "name": "Termination Shock",
+      "mission": 13,
+      "category": "comic",
+      "sid": "bd6bde8a805bb092"
+    },
+    {
+      "index": 127,
+      "name": "Messenger Particle",
+      "mission": 18,
+      "category": "comic",
+      "sid": "bd6bdd8a805baedf"
+    },
+    {
+      "index": 128,
+      "name": "Force Carrier",
+      "mission": 13,
+      "category": "comic",
+      "sid": "bd6bdc8a805bad2c"
+    },
+    {
+      "index": 129,
+      "name": "Uncertainty",
+      "mission": 23,
+      "category": "comic",
+      "sid": "bd6bdb8a805bab79"
+    },
+    {
+      "index": 130,
+      "name": "Foreign Element",
+      "mission": 19,
+      "category": "comic",
+      "sid": "bd6bda8a805ba9c6"
+    },
+    {
+      "index": 131,
+      "name": "Accretion",
+      "mission": 14,
+      "category": "comic",
+      "sid": "bd6bd98a805ba813"
+    },
+    {
+      "index": 132,
+      "name": "Free Radicals",
+      "mission": 21,
+      "category": "comic",
+      "sid": "bd6bd88a805ba660"
+    },
+    {
+      "index": 133,
+      "name": "Negentropy",
+      "mission": 24,
+      "category": "comic",
+      "sid": "bd6be78a805bbfdd"
+    },
+    {
+      "index": 134,
+      "name": "Precipitate",
+      "mission": 25,
+      "category": "comic",
+      "sid": "bd6be68a805bbe2a"
+    },
+    {
+      "index": 135,
+      "name": "Deep Phase",
+      "mission": 16,
+      "category": "comic",
+      "sid": "bd6be58a805bbc77"
+    },
+    {
+      "index": 136,
+      "name": "Antiparticles",
+      "mission": 17,
+      "category": "comic",
+      "sid": "bd6be48a805bbac4"
+    },
+    {
+      "index": 137,
+      "name": "Zero Point",
+      "mission": 20,
+      "category": "comic",
+      "sid": "bd6be38a805bb911"
+    },
+    {
+      "index": 138,
+      "name": "Catalysis",
+      "mission": 26,
+      "category": "comic",
+      "sid": "bd6be28a805bb75e"
+    },
+    {
+      "index": 139,
+      "name": "Singularity",
+      "mission": 28,
+      "category": "comic",
+      "sid": "bd6be18a805bb5ab"
+    }
+  ]
+}
