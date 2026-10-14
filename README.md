@@ -5,10 +5,22 @@ Current release: **v0.1.0**. Left Behind is not supported.
 
 ## Installation
 
+**Players do not need to install Python.** Download from the
+[latest release](https://github.com/ItsMrNew/The-Last-of-Us-Archipelago/releases/latest).
+
 Install `tlou_part1.apworld` through Archipelago Launcher and restart it.
 Open **The Last of Us Part I Client**: the APWorld includes the standalone
 Windows client and installs it locally on first launch. The client uses the
-game icon. A standalone ZIP is also available.
+game icon and includes its own Python runtime.
+
+For a direct download, run `TLOU-Part-I-Archipelago-Standalone-v0.1.0.exe`.
+It extracts and opens the exact same verified client as the APWorld, using
+the same managed runs. Nothing else needs downloading or installing.
+The standalone ZIP is an alternative: extract the entire folder and run
+`TLOU Archipelago.exe`, keeping its accompanying files together.
+
+The `Windows` source-client ZIP and `Source` ZIP are for developers; only those
+source-based workflows require a separate Python installation.
 
 See [setup and updating](tlou_ap/docs/setup_en.md), including migration of
 existing portable runs. Back up saves and run records before updating.

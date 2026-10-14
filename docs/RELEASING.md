@@ -31,6 +31,14 @@ The game-identification icon is not covered by the project's MIT licence.
     --output .research/UNIQUE-AUDIT-DIRECTORY` against installed Archipelago.
 11. Run `python tools/release_source.py` for the GitHub source ZIP and release hashes.
 
+For a single-download executable, run `python tools/build_single_exe.py` after
+building the APWorld. It wraps that exact verified client payload, checks first
+launch and cache reuse with Python removed from PATH, and writes
+`dist/single-exe-validation.json`. The runtime and game bridge do not change.
+Upload the resulting `.exe` and its SHA-256 file alongside the existing packages.
+The APWorld already includes the same Python-independent client; it does not
+download the executable from GitHub at launch time.
+
 `tools/build_apworld.py --world-only --output PATH` creates a small generation-only
 development APWorld. Do not ship that instead of the normal bundled APWorld.
 Client ZIPs deliberately do not contain another APWorld, avoiding recursive bundles.
