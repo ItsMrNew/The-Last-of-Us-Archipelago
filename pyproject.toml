@@ -10,6 +10,7 @@ requires-python = ">=3.12"
 dependencies = ["websockets==13.1"]
 
 [project.optional-dependencies]
+test = ["PyYAML==6.0.3"]
 bundle = ["pyinstaller==6.22.3", "pyinstaller-hooks-contrib==2026.8"]
 research = ["capstone==5.0.7", "pefile==2024.8.26"]
 local-server = ["colorama==0.4.6", "PyYAML==6.0.3", "jellyfish==1.2.1", "jinja2==3.1.6",

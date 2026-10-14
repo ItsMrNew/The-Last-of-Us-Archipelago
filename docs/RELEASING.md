@@ -1,6 +1,6 @@
 # Building and releasing
 
-Use Windows and Python 3.12. Install `pip install -e .[research,bundle]`.
+Use Windows and Python 3.12. Install `pip install -e .[research,bundle,test]`.
 The native compiler is Zig 0.13.0 in `.deps/zig-windows-x86_64-0.13.0`.
 MinHook v1.3.4, commit `c3fcafdc10146beb5919319d0683e44e3c30d537`, belongs
 in `.deps/minhook`. Dependencies and game files must not be committed.

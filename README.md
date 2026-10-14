@@ -29,7 +29,7 @@ Persistent offline crash recovery is deferred.
 
 ## Development
 
-Python 3.12 on Windows. Install with `python -m pip install -e .[research,bundle]`.
+Python 3.12 on Windows. Install with `python -m pip install -e .[research,bundle,test]`.
 Run `python -m unittest discover -s tests` for the isolated Python suite.
 See [building and release checks](docs/RELEASING.md) for the native build,
 APWorld integration tests and reproducible packaging order.
